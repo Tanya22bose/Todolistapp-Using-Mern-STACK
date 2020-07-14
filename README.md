@@ -1,2 +1,2 @@
 # Todolistapp-Using-Mern-STACK
-with a good UI
+with an emphasis on UI.
